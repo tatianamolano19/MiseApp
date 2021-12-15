@@ -1,13 +1,72 @@
 <resources>
     <string name="app_name">MiseApp</string>
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+
+    <string name="action_add">Agregar</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- ********** PRODUCTOS ******** -->
+    <!-- Nombres de productos-->
+    <string name="nom_pro1">Papel Mantequilla</string>
+    <string name="nom_pro2">Morral Júnior Peps, Azul con puntos</string>
+    <string name="nom_pro3">Caja De 132 Colores Prismacolor</string>
+    <string name="nom_pro4">Agenda 2022</string>
+    <string name="nom_pro5">Marcadores Monami</string>
+    <string name="nom_pro6">Cuaderno Cuadriculado</string>
+
+    <!-- Descripcion de productos-->
+    <string name="des_pro1">Block de Papel Mantequilla, 40 Hojas de 1/8</string>
+    <string name="des_pro2">Tamaño aprox.: 33 cm • Diseño: puntos de colores</string>
+    <string name="des_pro3">Colores profesionales y de calidad para artistas.</string>
+    <string name="des_pro4">Agenda Diaria Júnior de Cuero, Café con Franja Amarilla</string>
+    <string name="des_pro5">Marcadores para tela 470 A-1 X 8 Unidades</string>
+    <string name="des_pro6">Cuaderno Argollado Grande, 80 Hojas, Incolors</string>
+
+    <!-- Precios de productos-->
+    <string name="precios_pro1">$7.000</string>
+    <string name="precios_pro2">$79.900</string>
+    <string name="precios_pro3">$697.000</string>
+    <string name="precios_pro4">$37.500</string>
+    <string name="precios_pro5">$31.900</string>
+    <string name="precios_pro6">$16.600</string>
+
+    <!-- ********** SERVICIOS ******** -->
+    <!-- Nombres de Servicios -->
+    <string name="nom_ser1">Fotocopias</string>
+    <string name="nom_ser2">Impresion a domicilio</string>
+    <string name="nom_ser3">Cursos de Dibujo</string>
+    <string name="nom_ser4">Venta por Mayor</string>
+
+    <!-- Descripcion de Servicios -->
+    <string name="des_ser1">¿Estás buscando la mejor tienda de fotocopias en gran volumen? Escribemos y te aydaremos.</string>
+    <string name="des_ser2">¿No deseas salir de casa? Envia los documento y los imprimiremos por ti.</string>
+    <string name="des_ser3">¿Quieres aprender a dibujar? Este curso es para ti.</string>
+    <string name="des_ser4">Dinos lo que nececitas y te lo llevamos. Aplica para ventas por mayor.</string>
+
+    <!-- ********** SUCURSALES ******** -->
+    <!-- Nombres de Sucursales -->
+    <string name="nom_sucur1">Toberin</string>
+    <string name="nom_sucur2">Suba</string>
+    <string name="nom_sucur3">Soacha</string>
+
+    <!-- Descripcion de Servicios -->
+    <string name="des_sucur1">Direccion 123 N 12 - 10. Horario: 8:00 am - 5:00 pm.</string>
+    <string name="des_sucur2">Direccion 123 N 12 - 10. Horario: 8:00 am - 5:00 pm.</string>
+    <string name="des_sucur3">Direccion 123 N 12 - 10. Horario: 8:00 am - 5:00 pm.</string>
+
+
+    <string name="quienes_somos">¿Quienes Somos?</string>
+    <string name="qui_descrip">En el año 2003 abre su primer almacén en la ciudad de Bogotá, bajo el concepto de papelería. Luego de unos años en el mercado y respondiendo a las necesidades de sus clientes, incluye en librería, útiles escolares escolar, Arte, Tecnología y Decoración.</string>
+
 </resources>

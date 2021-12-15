@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/drawable/vector_favorite.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/drawable/vector_more.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/drawable/vector_search.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/drawable/vector_share.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/activity_form.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/activity_forms.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/app_bar_main.xml" value="0.16485507246376813" />
         <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/content_main.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/fragment_home.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/fragment_productos.xml" value="0.2796005706134094" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/fragment_servicios.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/fragment_sucursales.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/layout/nav_header_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="..\:/Users/Tatiana/AndroidStudioProjects/MiseApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.125" />
       </map>
     </option>
   </component>

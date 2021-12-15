@@ -2,8 +2,31 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/i_favoritos"
+        android:title=""
+        android:icon="@drawable/vector_favorite"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/i_search"
+        android:title=""
+        android:icon="@drawable/vector_search"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_more"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:title=""
+        android:icon="@drawable/vector_more"
+        app:showAsAction="always" >
+
+        <menu>
+        <item
+            android:id="@+id/action_add"
+            android:orderInCategory="100"
+            android:title="@string/action_add"
+            app:showAsAction="ifRoom" />
+
+        </menu>
+    </item>
 </menu>
